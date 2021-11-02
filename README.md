@@ -1,4 +1,5 @@
-# 
+# This project is in another private repository. If you have a desire or are interested in this project, please contact me.
+
 # CNN-for-vibrational-events-in-phase-OTDR
 
 With the help of an OTDR, it is possible to analyze the acoustic effects on a fiber-optic sensor distributed along the length. This allows you to understand in what place the impact took place and to establish the nature of the impact.
